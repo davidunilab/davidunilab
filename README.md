@@ -2,7 +2,7 @@
 
 
 - 🏫 Transfering from PHP to Python
-- 📚 Learning ML, AI, DL with Azure [ict.gov.ge](https://ict.gov.ge/trainings/designing-and-implementing-a-microsoft-azure-ai-solution/)
+- 📚 Learning ML, AI, DL with Azure at [ict.gov.ge](https://ict.gov.ge/trainings/designing-and-implementing-a-microsoft-azure-ai-solution/)
 - 📚 Learning DataOps
 - 🌐 Working for [National Archives of Georgia](https://archive.gov.ge/) as Fullstack web Developer
 - 🧑‍🎓 Learning Pure Mathematics at [Ilia State University](https://iliauni.edu.ge/ge/)
