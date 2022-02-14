@@ -5,7 +5,7 @@
 - 📚 Learning DataOps
 - 🌐 Working for [National Archives of Georgia](https://archive.gov.ge/) as Fullstack web Developer
 - 🎓 Learning Pure Mathematics at [Ilia State University](https://iliauni.edu.ge/ge/)
-- 🧑Practicing and teaching Python at [Unilab](https://unilab.iliauni.edu.ge/course-python/), the digital lab of Ilia State University
+- 🧑 Practicing and teaching Python at [Unilab](https://unilab.iliauni.edu.ge/course-python/), the digital lab of Ilia State University
 
 ## 📫 How to reach me:  
  
