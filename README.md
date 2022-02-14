@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 - 🏫 Transfering from PHP to Python
 - 📚 Learning ML, AI, DL with Azure at [ict.gov.ge](https://ict.gov.ge/trainings/designing-and-implementing-a-microsoft-azure-ai-solution/)
