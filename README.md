@@ -20,7 +20,7 @@
   </a>&nbsp;&nbsp;
 
 
-## 🧱Skills
+## 🧱 Skills
 
 
 <p align='left'>
