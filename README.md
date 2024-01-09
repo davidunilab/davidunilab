@@ -2,9 +2,9 @@
 <!-- - 📚 Learning DataOps -->
 - 🏫 Transfering from PHP to Python
 - 📚 Learned ML, AI, DL with Azure at [ict.gov.ge](https://ict.gov.ge/trainings/designing-and-implementing-a-microsoft-azure-ai-solution/)
-- 🌐 Working for [National Archives of Georgia](https://archive.gov.ge/) as Fullstack web Developer
+- 🌐 Worked for [National Archives of Georgia](https://archive.gov.ge/) as Fullstack web Developer
 - 🎓 Learning Pure Mathematics at [Ilia State University](https://iliauni.edu.ge/ge/)
-- 🧑 Practicing and teaching Python at [Unilab](https://unilab.iliauni.edu.ge/course-python/), the digital lab of Ilia State University
+- 🧑 Practiced teaching Python at [Unilab](https://unilab.iliauni.edu.ge/course-python/), the digital lab of Ilia State University
 
 ## 📫 How to reach me:  
  
